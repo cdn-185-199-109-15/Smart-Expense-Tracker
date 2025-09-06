@@ -1,0 +1,5 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "An intelligent expense tracker that automatically categorizes your spending using Gemini and provides insightful analytics with visual charts.",
+  "requestFramePermissions": []
+}
